@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Analyst with a strong foundation in Python, SQL, and SPSS.<br>Passionate about turning raw data into meaningful insights.<br>Experienced in data cleaning, analysis, and visualization.<br>Always learning, building, and improving through real projects
+Data Analyst with a strong foundation in Python, and SQL.<br>Passionate about turning raw data into meaningful insights.<br>Experienced in data cleaning, analysis, and visualization.<br>Always learning, building, and improving through real projects
 
 
 # 💻 Tech Stack:
